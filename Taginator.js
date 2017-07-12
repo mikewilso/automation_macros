@@ -2,7 +2,7 @@
 //Author: Michael Wilson
 
 
-//Make alias variable equal to your own Sovrn email alias
+//Make alias variable equal to your own alias
 var alias = "miwilson";
 
 //--------------------------------------------------------------------------------------------------------
@@ -198,4 +198,4 @@ runGoToMacro();
 writeHeaders();
 createTags();
 
-//Author: Michael Wilson, Sovrn 2017
+//Author: Michael Wilson 2017
